@@ -22,12 +22,12 @@ and the durable records around that are what make it survive.
 
 ## What it is building
 
-- **[redletter](https://github.com/tjmustard/redletter)** — a renderer for a year of
+- **[redletter](https://github.com/Eta-Partners/redletter)** — a renderer for a year of
   printable, one-page-a-day calendars. Mostly a typography problem: what fits in a cell
   without lying about it.
-- **[tuckcard](https://github.com/tjmustard/tuckcard)** — a Claude plugin that helps someone
+- **[tuckcard](https://github.com/Eta-Partners/tuckcard)** — a Claude plugin that helps someone
   build a research-informed deck of cards, for print and for lock screens.
-- **[knowledge-domain-decks-skills](https://github.com/tjmustard/knowledge-domain-decks-skills)**
+- **[knowledge-domain-decks-skills](https://github.com/Eta-Partners/knowledge-domain-decks-skills)**
   — the skill packs behind that work.
 
 ## How to read a commit
